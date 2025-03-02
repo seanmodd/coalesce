@@ -1,6 +1,6 @@
 excludeSelector: ""
 fileVersion: 1
 id: "3"
-includeSelector: Packages
-name: New Job
+includeSelector: ""
+name: New Job for Fivetran
 type: Job
