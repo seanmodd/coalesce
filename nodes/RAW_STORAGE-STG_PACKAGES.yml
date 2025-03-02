@@ -47,20 +47,6 @@ operation:
             transform: ""
       - appliedColumnTests: {}
         columnReference:
-          columnCounter: a496224b-dc3a-4413-bd9d-a1b08e1ceb8c
-          stepCounter: ea9afd19-b3c0-49f5-9b4c-109304c33460
-        config: {}
-        dataType: NUMBER(38,0)
-        description: ""
-        name: SEND_CAT_ID
-        nullable: true
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 2e8d736a-5dca-4993-9f53-2f001d2a083b
-                stepCounter: e2b892cc-d811-4aa8-a2e8-f989532abc90
-            transform: ""
-      - appliedColumnTests: {}
-        columnReference:
           columnCounter: 92905750-c101-49f3-8121-46feea7a3be1
           stepCounter: ea9afd19-b3c0-49f5-9b4c-109304c33460
         config: {}
@@ -99,48 +85,6 @@ operation:
         sourceColumnReferences:
           - columnReferences:
               - columnCounter: f894eacb-bff6-46de-bc20-9e917d9bd81a
-                stepCounter: e2b892cc-d811-4aa8-a2e8-f989532abc90
-            transform: ""
-      - appliedColumnTests: {}
-        columnReference:
-          columnCounter: 0a31b608-25ce-442a-a72f-05f8c3b681a1
-          stepCounter: ea9afd19-b3c0-49f5-9b4c-109304c33460
-        config: {}
-        dataType: NUMBER(38,0)
-        description: ""
-        name: PET_TYPE
-        nullable: true
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 8b1a2f14-75f7-4859-b002-5f1a07342ed1
-                stepCounter: e2b892cc-d811-4aa8-a2e8-f989532abc90
-            transform: ""
-      - appliedColumnTests: {}
-        columnReference:
-          columnCounter: c80d7b2f-e6d8-468c-8c87-0e2c1524509c
-          stepCounter: ea9afd19-b3c0-49f5-9b4c-109304c33460
-        config: {}
-        dataType: NUMBER(38,0)
-        description: ""
-        name: PET_COUNT
-        nullable: true
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 42eb922a-9695-43bc-b4f2-8d39539a57a6
-                stepCounter: e2b892cc-d811-4aa8-a2e8-f989532abc90
-            transform: ""
-      - appliedColumnTests: {}
-        columnReference:
-          columnCounter: 491efa69-3b7f-4c00-8902-28bc43a23d04
-          stepCounter: ea9afd19-b3c0-49f5-9b4c-109304c33460
-        config: {}
-        dataType: NUMBER(38,0)
-        description: ""
-        name: PET_IS_VAC
-        nullable: true
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 82c0eea0-4692-467a-b3a4-a1134bef799c
                 stepCounter: e2b892cc-d811-4aa8-a2e8-f989532abc90
             transform: ""
       - appliedColumnTests: {}
